@@ -280,4 +280,94 @@ border-radius: 16px;
     }
     
 /* coming soon part end */
+/* Holiday part start */
+#discount{
+    margin: 100px 140px 50px;
+}
+.Super_discount{
+    text-align: center;
+}
+.Super_discount h2{
+    font-size: 24px;
+    font-family: 'inter';
+    font-weight: 500;
+    color: #070211;
+}
+.Super_discount h1{
+    font-size: 72px;
+    font-family: 'Merriweather';
+    font-weight: 900;
+    color: #070211;
+    margin-bottom: 20px;
+    margin-top: 15px;
+}
+.Super_discount .Holi{
+    color: #F00;
 
+}
+.Super_discount p{
+    font-size: 20px;
+    font-family: 'inter';
+    font-weight: 500;
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-bottom: 30px;
+    
+}
+.coupon{
+    background: url(../images/Holiday/Rectangle\ 2.png) no-repeat, center;
+    
+}
+
+
+/* Holiday part end */
+
+/* Portfolio part start */
+
+#Portfolio{
+    margin: 100px 140px 50px;
+}
+.portfolio_heading h3{
+    font-size: 24px;
+    font-family: 'inter';
+    font-weight: 500;
+    color: #F00;
+    
+}
+.portfolio_heading h1{
+    font-size: 48px;
+    font-family: 'Merriweather';
+    font-weight: 900;
+    color: #070211;
+    text-transform: capitalize;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.portfolio_heading p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'inter';
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-bottom: 50px;
+}
+
+.portfolio_imgages{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    transition: .5s;
+}
+.portfolio_imgage{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    margin-top: 24px;
+}
+.portfolio_imgages:hover{
+    animation: ease-in;
+}
+
+/* Portfolio part end */
