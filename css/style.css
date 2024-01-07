@@ -141,4 +141,45 @@ border-radius: 16px;
     margin-left: 40px;
 }
 /* midnight party part end*/
+/* Reservation part start */
+#reservation{
+    margin: 10px 140px 50px;
+}
+.main_color{
+    background-image: linear-gradient(to top, rgba(255,0,0,0), rgba(255, 0, 0, 0.219));
+    padding: 110px 385px;
+    text-align: center;
+}
+.main_color h2{
+    font-size: 32px;
+    font-family: 'Inter';
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    color: #070211;
+    
+}
+
+.main_color .different_color{
+    font-size: 32px;
+    font-family: 'inter';
+    font-weight: 600;
+    line-height: 56px;
+    text-transform: capitalize;
+    color: #F00;
+}
+.main_color .btn_join{
+    font-size: 20px;
+    font-family: 'inter';
+    font-weight: 700;
+    text-transform: uppercase;
+    background-color: #F00;
+    padding: 16px 32px;
+    border-radius: 16px;
+    margin-top: 64px;
+    color: #FFF;
+}
+
+
+/* Reservation part end */
 
