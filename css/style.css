@@ -369,5 +369,41 @@ border-radius: 16px;
 .portfolio_imgages:hover{
     animation: ease-in;
 }
-
 /* Portfolio part end */
+/* newaletter part start */
+.subscribe_newsletter{
+    margin: 100px 140px 50px;
+}
+.subscribe{
+    background-color: rgba(255, 0, 0, 0.05);
+    border-radius: 16px;
+    padding: 80px 212px;
+    text-align: center;
+}
+.subscribe h2{
+    font-size: 48px;
+    font-family: 'Merriweather';
+    font-weight: 900;
+    text-transform: capitalize;
+    color: #070211;
+    margin-top: 40px;
+    margin-bottom: 16px;
+}
+.subscribe p{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'inter';
+    line-height: 32px;
+    color: rgba(7, 2, 17, 0.60);
+    margin-bottom: 100px;
+}
+
+.subscribe .btn_mail{
+    height: 72px;
+    width: 70%;
+    padding: ;
+}
+
+
+
+/* newaletter part end */
