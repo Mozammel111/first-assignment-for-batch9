@@ -52,5 +52,36 @@ a{
     line-height: 95px;
     text-align: center;
 }
-
 /* footer or banner part end */
+/* <!-- OFF% part start --> */
+.holidays_deal{
+    text-align: center;
+}
+.holidays_deal h1{
+    font-size: 88px;
+    font-family: 'Inter'; 
+    font-weight: 700;
+    color: #F00;
+    margin-bottom: 48px;
+}
+.holidays_deal h4{
+    font-size: 24px;
+    font-weight: 500;
+    font-family: 'Inter'; 
+    color: #F00;
+    margin-bottom: 6px;
+}
+.holidays_deal h2{
+    font-size: 48px;
+    font-family: 'Inter'; 
+    font-weight: 700;
+    color:#070211;
+    margin-bottom: 48px;
+}
+.holidays_deal img{
+    height: 500px;
+    width: 802px;
+    margin-bottom: 120px;
+}
+
+/* <!-- OFF% part end --> */
