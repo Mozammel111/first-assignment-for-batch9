@@ -20,7 +20,7 @@ a{
 
 /* common css end */
 
-/* footer or banner part start */
+/* banner part start */
 #banner_top{
     margin: 50px 140px 100px 140px;
 }
@@ -427,3 +427,60 @@ border-radius: 16px;
 
 
 /* newaletter part end */
+/* footer part start */
+#footer_color{
+    background-color: #070211;
+    padding: 120px 20px;
+}
+.footer_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 40px;
+    text-align: center;
+}
+.footer_top .address h2{
+    font-size: 24px;
+    line-height: 40px;
+    font-family: 'inter';
+    font-weight: 400;
+    color: #FFF;
+}
+.footer_top .phone{
+    margin-left: 25px;
+}
+
+.footer_top .phone a{
+    font-size: 24px;
+    line-height: 40px;
+    font-family: 'inter';
+    font-weight: 400;
+    color: #FFF;
+    margin-left: 25px;
+}
+
+.social_icon{
+    margin: 20px 0;
+    text-align: center;
+    padding: 40px 0;
+}
+.social_icon img{
+    margin-right: 25px;
+}
+
+.footer_bottom{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 45px;
+}
+
+.footer_bottom h2{
+    font-size: 24px;
+    line-height: 40px;
+    font-family: 'inter';
+    font-weight: 400;
+    color: #FFF;
+}
+
+/* footer part end */
