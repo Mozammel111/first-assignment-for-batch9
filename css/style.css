@@ -377,7 +377,7 @@ border-radius: 16px;
 .subscribe{
     background-color: rgba(255, 0, 0, 0.05);
     border-radius: 16px;
-    padding: 80px 212px;
+    padding: 80px 150px;
     text-align: center;
 }
 .subscribe h2{
@@ -398,10 +398,30 @@ border-radius: 16px;
     margin-bottom: 100px;
 }
 
-.subscribe .btn_mail{
+.subscribe .btn_mail input{
     height: 72px;
-    width: 70%;
-    padding: ;
+    width: 438px;
+    color: #070211;
+    font-size: 18px;
+    font-weight: 400;   
+    font-family: 'inter';
+    padding: 25px 447px 25px 30px;
+    background-color: #FFF;
+    border-radius: 50px 0 0 50px;
+    margin-right: -110px;
+ 
+}
+.subscribe .btn_mail .btn_sub {
+	height: 72px;
+	width: 100px;
+	color: #FFF;
+	font-size: 18px;
+	font-weight: 400;
+	font-family: 'inter';
+	padding: 25px 148px 25px 10px;
+	background-color: #F00;
+	border-radius: 0 50px 50px 0;
+	margin-left: 100px;
 }
 
 
